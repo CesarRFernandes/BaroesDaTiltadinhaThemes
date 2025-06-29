@@ -17,5 +17,8 @@
         "path": "./themes/smaxy-color-theme.json"
       }
     ]
+  },
+  "devDependencies": {
+    "vsce": "^2.15.0"
   }
 }
