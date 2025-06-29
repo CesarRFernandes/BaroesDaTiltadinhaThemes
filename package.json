@@ -12,7 +12,7 @@
   "contributes": {
     "themes": [
       {
-        "label": "BaroesDaTiltadinhaThemes",
+        "label": "SmaxY Theme",
         "uiTheme": "vs-dark",
         "path": "./themes/smaxy-color-theme.json"
       }
