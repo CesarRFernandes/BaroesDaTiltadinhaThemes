@@ -15,6 +15,11 @@
         "label": "SmaxY Theme",
         "uiTheme": "vs-dark",
         "path": "./themes/smaxy-color-theme.json"
+      },
+      {
+        "label": "Ceifeiro Theme",
+        "uiTheme": "vs-dark",
+        "path": "./themes/ceifeiro-color-theme.json"
       }
     ]
   },
